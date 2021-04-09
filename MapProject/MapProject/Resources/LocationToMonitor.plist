@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>latitude</key>
+		<real>22.5542</real>
+		<key>longitude</key>
+		<real>88.3359</real>
+		<key>radius</key>
+		<integer>200</integer>
+		<key>identifier</key>
+		<string>Fort William</string>
+		<key>eventType</key>
+		<string>On Entry</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<real>22.5646</real>
+		<key>longitude</key>
+		<real>88.3433</real>
+		<key>radius</key>
+		<integer>200</integer>
+		<key>identifier</key>
+		<string>Eden Gardens</string>
+		<key>eventType</key>
+		<string>On Entry</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<real>22.5448</real>
+		<key>longitude</key>
+		<real>88.3426</real>
+		<key>radius</key>
+		<integer>300</integer>
+		<key>identifier</key>
+		<string>Victoria Memorial</string>
+		<key>eventType</key>
+		<string>On Entry</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<real>22.5628</real>
+		<key>longitude</key>
+		<real>88.3492</real>
+		<key>radius</key>
+		<integer>300</integer>
+		<key>identifier</key>
+		<string>Shaheed Minar</string>
+		<key>eventType</key>
+		<string>On Entry</string>
+	</dict>
+</array>
+</plist>
